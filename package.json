@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "author": "Gieop Yang",
+  "author": "Gieopd",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.4.0",
